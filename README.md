@@ -1,0 +1,2 @@
+# Project-Prediction_And_Clustering_of_Condominioum_Sales_Toronto_Using_Socio-Economic-Variables
+PREDICTION AND CLUSTERING OF CONDIMINIUM SALES IN TORONTO USING SOCIO-ECONOMIC VARIABLES
